@@ -1,0 +1,16 @@
+'''
+I am using Rubenlib
+'''
+
+#from Rubenlib import distance2d
+#from Rubenlib import distance3d
+
+#I call the distance2d
+
+#print(distance2d(0,0,4,3))
+
+#print(distance3d(0,0,0,4,3,12))
+
+word='whateveryouwant'
+alist=list(word)
+print(alist)
